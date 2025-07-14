@@ -2,12 +2,12 @@
 
 _Oh hello there! I'm Greshka and welcome to my GitHub!_
 
-_You have a million questions right now but you may be asking right now, who am I?_
+_You probably have a million questions right now, but let me start with the big one: who am I?_
 
 ## 🥜 me in a nutshell 
 - I study at Auckland University of Technology (AUT) towards a Bachelor of Computer and Information Science, Software Development major, Computer Science minor; I graduate at the end of 2025 👩🏻‍🎓
 - After university, I hope to pursue a career in software engineering or web development 💻
-- My passion for software started with a curiousity to know what goes on inside the computers that are rapidly becoming more versatile and useful for our daily tasks, and now continues to be a motivation for me.
+- My passion for software started with a curiosity to know what goes on inside the computers that are rapidly evolving to support and simplify our daily lives, and now continues to be a motivation for me.
 - My hobbies include refereeing basketball games, learning about my Catholic faith, going to the gym and watching movies 🫶🏻
 
 ## ⚒️ tech stack
@@ -33,22 +33,22 @@ _Nice to meet you! I bet the first thing you want to explore here are my project
 
 ## 👓 projects
 - [Chronomancy](https://github.com/greshh/Chronomancy) - A platformer game built with Java
-- [A 3D Graphics Scene](https://github.com/greshh/3DGraphicsScene) - A Java program that enerates a 3D graphics scene comprising of planar and spherical surfaces, unleashing creativity with what can be created with these two types of surfaces.
-- [Big Integer Addition](https://github.com/greshh/BigIntegerAddition) - A C++ program that adds two positive big integers in decimal format which cannot conventionally be done with standard integer addition using stacks.
+- [A 3D Graphics Scene](https://github.com/greshh/3DGraphicsScene) - A Java program that generates a 3D graphics scene comprising of planar and spherical surfaces, unleashing creativity with what can be created with these two types of surfaces.
+- [Big Integer Addition](https://github.com/greshh/BigIntegerAddition) - a C++ program that adds large positive integers (too big for standard types), using stack-based implementation.
 
 _I hope you see a lot of my growth from this. Speaking of growth, you may be asking what is my **"catchphrase"** about?_
 
 ## ☁️ what i believe in
 One fun fact to know about me: I am a continuous learner. This isn't just academically (through university) or spiritually (my Catholic faith), but even in the most mundane situations in my life; I believe that every situation in my life has at least one learning experience and gives me a chance to better myself. And from here, I love to <ins>**grow**</ins>, knowing that I can look back at younger Greshka five years ago and give her something to learn from my own experiences. 
 
-And with this, I want to give back. My motivation for learning software development is knowing that I can put this to good use and create software that can benefit others, whether this would help a single client, a certain group or even an entire population. I strive to create software that helps individuals <ins>**connect**</ins> with each other so we can live towards a happier future. 
+And with this, I want to give back. My motivation for learning software development is knowing that I can put this to good use and create software that can benefit others, whether this would help a single client, a certain group or even an entire population. I strive to create software that help individuals <ins>**connect**</ins> with each other to live towards a happier future. 
 
 And being someone very detail-oriented, my career goal is to achieve all this through clean code - <ins>**one line at a time**</ins>.
 
 _Well, that is me for now! Leave a follow here and on my socials if you want to come along on this journey with me. I'm happy to chat and connect about collaborating or suggesting potential project ideas :)_
 
 ## 🔔 let's connect
-![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&link=mailto%3Agreshkalao%40gmail.com)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgreshka%2F)
-![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fgreshkamanda%2F)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge)](mailto:greshkalao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge)](https://www.linkedin.com/in/greshka/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greshkamanda/)
 
