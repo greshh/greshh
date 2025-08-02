@@ -26,8 +26,9 @@ _You probably have a million questions right now, but let me start with the big 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
 _Nice to meet you! I bet the first thing you want to explore here are my projects. So far, these repositories derive from university assignments to show my growth in my development journey! Let me outline a few of my favourites:_
 
