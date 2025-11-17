@@ -5,8 +5,8 @@ _Oh hello there! I'm Greshka and welcome to my GitHub!_
 _You probably have a million questions right now, but let me start with the big one: who am I?_
 
 ## 🥜 me in a nutshell 
-- I study at Auckland University of Technology (AUT) towards a Bachelor of Computer and Information Science, Software Development major, Computer Science minor; I graduate at the end of 2025 👩🏻‍🎓
-- After university, I hope to pursue a career in software engineering or web development 💻
+- I recently graduated with a Bachelor of Computer and Information Science, Software Development major, Computer Science minor at Auckland University of Technology 👩🏻‍🎓
+- I am actively searching to pursue a career in software engineering or web development 💻
 - My passion for software started with a curiosity to know what goes on inside the computers that are rapidly evolving to support and simplify our daily lives, and now continues to be a motivation for me.
 - My hobbies include refereeing basketball games, learning about my Catholic faith, going to the gym and watching movies 🫶🏻
 
@@ -34,12 +34,12 @@ _You probably have a million questions right now, but let me start with the big 
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/-Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
-_Nice to meet you! I bet the first thing you want to explore here are my projects. So far, these repositories derive from university assignments to show my growth in my development journey! Let me outline a few of my favourites:_
+_Nice to meet you! I bet the first thing you want to explore here are my projects._
 
 ## 👓 projects
+_(To name a few...)_
+- [Conference Planner](https://github.com/greshh/ConferencePlanner) - A web-based platform for service/leadership teams preparing for conferences
 - [Chronomancy](https://github.com/greshh/Chronomancy) - A platformer game built with Java
-- [A 3D Graphics Scene](https://github.com/greshh/3DGraphicsScene) - A Java program that generates a 3D graphics scene comprising of planar and spherical surfaces, unleashing creativity with what can be created with these two types of surfaces.
-- [Big Integer Addition](https://github.com/greshh/BigIntegerAddition) - a C++ program that adds large positive integers (too big for standard types), using stack-based implementation.
 
 _I hope you see a lot of my growth from this. Speaking of growth, you may be asking what is my **"catchphrase"** about?_
 
