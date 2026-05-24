@@ -6,7 +6,7 @@ _You probably have a million questions right now, but let me start with the big 
 
 ## 🥜 me in a nutshell 
 - I recently graduated with a Bachelor of Computer and Information Science, Software Development major, Computer Science minor at Auckland University of Technology 👩🏻‍🎓
-- I am actively searching to pursue a career in software engineering or web development 💻
+- I am actively searching to pursue a career in software engineering and web development 💻
 - My passion for software started with a curiosity to know what goes on inside the computers that are rapidly evolving to support and simplify our daily lives, and now continues to be a motivation for me.
 - My hobbies include refereeing basketball games, learning about my Catholic faith, going to the gym and watching movies 🫶🏻
 
@@ -38,8 +38,8 @@ _Nice to meet you! I bet the first thing you want to explore here are my project
 
 ## 👓 projects
 _(To name a few...)_
+- [Hanz Visuals](https://github.com/greshh/HanzVisuals) - A website portfolio for Hanz Visuals, a local sports photography brand
 - [Conference Planner](https://github.com/greshh/ConferencePlanner) - A web-based platform for service/leadership teams preparing for conferences
-- [Chronomancy](https://github.com/greshh/Chronomancy) - A platformer game built with Java
 
 _I hope you see a lot of my growth from this. Speaking of growth, you may be asking what is my **"catchphrase"** about?_
 
@@ -55,5 +55,4 @@ _Well, that is me for now! Leave a follow here and on my socials if you want to 
 ## 🔔 let's connect
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge)](mailto:greshkalao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge)](https://www.linkedin.com/in/greshka/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greshkamanda/)
 
